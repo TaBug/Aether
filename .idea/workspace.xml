@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c780d049-0148-4c5d-badb-bba825a60acf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/debug.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/debug.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/student.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/student.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/advance.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/advance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/aether.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/aether.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/constants.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/constants.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/grid.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/grid.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/indices.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/indices.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/inputs.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/inputs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/ions.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/ions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/logfile.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/logfile.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/neutrals.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/neutrals.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/report.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/report.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/solvers.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/solvers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/tools.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/tools.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.linux" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.linux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.mac" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.mac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/share/run/UA/inputs/defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/share/run/UA/inputs/defaults.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/share/run/aether.json" beforeDir="false" afterPath="$PROJECT_DIR$/share/run/aether.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/advance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calc_euv.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/calc_euv.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indices.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/indices.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init_geo_grid.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_geo_grid.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init_parallel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_parallel.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inputs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logfile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/logfile.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main_test_interpolation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main_test_interpolation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/read_input_file.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/read_input_file.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/report.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/report.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver_grid_interpolation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver_grid_interpolation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solver_interpolation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/solver_interpolation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/srcPython/logfile_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/srcPython/logfile_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logfile/aether.logfile.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/logfile/aether.logfile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/logfile/run_test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tests/logfile/run_test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/verbose/aether1.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/verbose/aether1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/verbose/aether2.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/verbose/aether2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/verbose/aether3.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/verbose/aether3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/verbose/run_test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/tests/verbose/run_test.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QyrLrGSkmhBdZKQqIlwqflf293" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c780d049-0148-4c5d-badb-bba825a60acf" name="Changes" comment="" />
+      <created>1686336609669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686336609669</updated>
+    </task>
+    <servers />
+  </component>
+</project>
